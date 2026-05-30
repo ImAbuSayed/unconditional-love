@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unconditional-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Unconditional Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unconditional-love/) |
+| **Get License** | [Music Rights & Licensing for Unconditional Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unconditional-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5263b9872d1a2444a57151c186b7430c7c59941c13eb66dec14c631145e17786` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
