@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unconditional-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unconditional Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unconditional-love/) |
+| **Get License** | [Obtain a Music License for Unconditional Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unconditional-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat radiating from your touch
+> Never thought that I could ever want this much
+> We got nowhere to be and all night to lose
+> Just this quiet space, the moonlight, and you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
